@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Alice-S-Wong/modern_javascript#readme",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   },
   "devDependencies": {
     "@babel/core": "^7.7.5",
